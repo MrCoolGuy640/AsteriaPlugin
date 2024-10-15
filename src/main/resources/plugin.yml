@@ -1,0 +1,4 @@
+name: AsteriaFishing
+version: '1.0-SNAPSHOT'
+main: com.mrcool.asteriaFishing.AsteriaFishing
+api-version: '1.20'
